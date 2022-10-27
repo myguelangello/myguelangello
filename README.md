@@ -2,6 +2,7 @@
 
 - 🔥 I'm student of Sistemas e Mídias Digitais | UFC
 - 👀 I'm interested in Web development
+- 💻 I'm an IT intern 
 - 🌱 I'm currently studying Node.js
 - 💞️ I'm looking for an internship in a technology company as a front-end or back-end developer
 - 📫 How to reach me 
