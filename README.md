@@ -2,10 +2,10 @@
 
 - 🔥 I'm student of Sistemas e Mídias Digitais | UFC
 - 👀 I'm interested in Web development
-- 💻 I'm an IT intern 
-- 🌱 I'm currently studying Node.js
-- 💞️ I'm looking for an internship in a technology company as a front-end or back-end developer
-- 📫 How to reach me 
+- 💻 I'm an Developer in Hospital São Camilo Fortaleza
+- 💞️ I can contribute as a back-end, front-end or fullstack developer
+- 🌱 I'm currently studying Node.js and ReactJS
+- 📫 How to contact me 
      - Email: myguelangello@alu.ufc.br 
      - LinkedIn: https://www.linkedin.com/in/myguelangello
 
