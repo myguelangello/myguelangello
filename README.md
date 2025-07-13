@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Myguel Angello</h1>
+<h1 align="left">Hi, I'm Myguel Angello 👋</h1>
 
 - 🔥 I'm student of Sistemas e Mídias Digitais | UFC
 - 👀 I'm interested in Web development
